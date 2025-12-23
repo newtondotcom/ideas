@@ -9,3 +9,5 @@ Welcome to my personal site where I share my ideas and thoughts on various proje
 Here you'll find a collection of ideas I'm exploring, projects under development, and thoughts on technology, innovation, and creativity.
 
 Explore my latest ideas in the [Ideas](/ideas/) section.
+
+If you find one of them interesting, you can get touch with me to discuss about it or maybe make it reel with a first MVP, who knowssss :)
